@@ -1,1 +1,0 @@
-# MERN-travel-log-app
