@@ -1,6 +1,8 @@
 # Angular shooping list
 
 Shooping list made with Angular, Express & Typescript.
+
+![](./shooping-list.png)
 ## installation
 
 ### backend:
