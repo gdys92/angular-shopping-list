@@ -1,6 +1,7 @@
 #main-container{
     width: 800px;
     margin: 0 auto;
+    background: #ecf5fa;
 }
 
 @media screen and (max-width: 800px){

@@ -45,14 +45,14 @@ div{
 .actions button{
     border: none;
     font-size: 12px;
-    background-color: red;
+    background-color: rgba(233, 118, 118, 0.342);
     color: white;
     padding: 5px;
     width: 100%;
     box-sizing: border-box;
 }
 .actions button:hover{
-    background-color: darkred;
+    background-color: rgb(241, 116, 116);
 }
 
 @media screen and (max-width: 480px){
